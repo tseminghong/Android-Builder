@@ -1,0 +1,7 @@
+"kernelSource": {
+  "name": "Redmi note 12 pro",
+  "repo": "https://github.com/fjrXTR/kernel_xiaomi_ruby",
+  "branch": "ruby-s-oss",
+  "device": "ruby",
+  "defconfig": "ruby_user_defconfig"
+}
